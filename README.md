@@ -1,4 +1,1 @@
 # CollabProject
-Installation
-
-Usage
